@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>新闻哥表情包推荐</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f2f5;
+        }
+        .container {
+            text-align: center;
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        input[type="text"] {
+            padding: 10px;
+            width: 300px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            outline: none;
+        }
+        #suggestions {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 10px;
+            min-height: 50px; /* 保持输入框下面有一定的空间 */
+        }
+        .suggestion-item {
+            font-size: 2em;
+            cursor: pointer;
+            padding: 5px;
+            border-radius: 5px;
+            transition: transform 0.2s;
+        }
+        .suggestion-item:hover {
+            background-color: #e9ecef;
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>表情包自动联想</h1>
+        <p>输入你的评论，查看匹配推荐的新闻哥表情包</p>
+        <input type="text" id="searchInput" placeholder="例如: 开心">
+        <div id="suggestions"></div>
+    </div>
+
+    <script>
+        const searchInput = document.getElementById('searchInput');
+        const suggestionsDiv = document.getElementById('suggestions');
+        let emojisData = [];
+
+        // 步骤1: 加载多个 JSON 数据
+        async function loadEmojis() {
+            try {
+                // 并行加载两个JSON文件
+                const [response1, response2] = await Promise.all([
+                    fetch('recom.json'),
+                    fetch('recom_xwm.json')
+                ]);
+
+                if (!response1.ok || !response2.ok) {
+                    throw new Error(`HTTP error! status: ${!response1.ok ? response1.status : response2.status}`);
+                }
+
+                const data1 = await response1.json();
+                const data2 = await response2.json();
+
+                // 合并两个数据源
+                emojisData = [...data1, ...data2];
+                console.log('加载的数据:', emojisData); 
+                console.log('表情包数据加载成功！共加载', emojisData.length, '个表情包');
+            } catch (error) {
+                console.error('加载表情包数据失败:', error);
+            }
+        }
+
+ // 步骤2: 搜索和排序逻辑 - 改进版本
+        function searchAndRank(query) {
+        if (!query || query.trim().length <= 1) {
+            return [];
+        }
+            
+            const results = [];
+            const queryLower = query.toLowerCase().trim();
+
+            emojisData.forEach(emoji => {
+                let totalScore = 0;
+                let matchCount = 0;
+
+                // 遍历每个表情包的标签，计算匹配分数
+                emoji.tags.forEach(tag => {
+                    // 改进的匹配逻辑：检查用户输入是否包含标签关键词
+                    if (queryLower.includes(tag.label.toLowerCase())) {
+                        totalScore += tag.weight;
+                        matchCount++;
+                    }
+                    // 同时也检查标签是否包含用户输入的关键词（双向匹配）
+                    else if (tag.label.toLowerCase().includes(queryLower)) {
+                        totalScore += tag.weight * 0.5; // 部分匹配给较低权重
+                        matchCount++;
+                    }
+                });
+                
+                // 如果有匹配，添加到结果中
+                if (matchCount > 0) {
+                    results.push({
+                        emoji: emoji.image,
+                        score: totalScore,
+                        matches: matchCount
+                    });
+                }
+            });
+
+            // 按照分数从高到低排序
+            results.sort((a, b) => {
+                // 首先按分数排序
+                if (b.score !== a.score) {
+                    return b.score - a.score;
+                }
+                // 分数相同时，按匹配数量排序
+                return b.matches - a.matches;
+            });
+            
+            // 设定一个阈值，匹配分数低于 0.5 的不显示
+            const MIN_SCORE_THRESHOLD = 0.5;
+            const filteredResults = results.filter(item => item.score >= MIN_SCORE_THRESHOLD);
+
+            // 返回前8个结果（增加一些结果）
+            return filteredResults.slice(0, 8).map(item => item.emoji);
+        }
+
+
+        // 步骤3: 显示结果
+            function displaySuggestions(images) {
+            // 在这里添加console.log，查看传入的数组内容
+            console.log('传入的图片路径：', images);
+
+            suggestionsDiv.innerHTML = '';
+            if (images.length === 0) {
+                suggestionsDiv.innerHTML = '<div>没有找到相关表情包，请尝试其他关键词。</div>';
+                return;
+            }
+            images.forEach(imagePath => {
+                const item = document.createElement('div'); // 使用 div 作为容器
+                item.className = 'suggestion-item';
+
+                const img = document.createElement('img');
+                img.src = imagePath;
+                img.alt = '表情包';
+
+                item.appendChild(img);
+                item.onclick = () => {
+                    console.log('你选择了:', imagePath);
+                    alert(`你选择了: ${imagePath}`);
+                };
+                suggestionsDiv.appendChild(item);
+            });
+        }
+
+        // 步骤4: 监听用户输入
+        searchInput.addEventListener('input', () => {
+            const query = searchInput.value;
+            const top5Emojis = searchAndRank(query);
+            displaySuggestions(top5Emojis);
+        });
+
+        // 初始化：加载数据
+        loadEmojis();
+    </script>
+</body>
+</html>

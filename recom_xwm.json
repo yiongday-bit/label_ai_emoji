@@ -1,0 +1,440 @@
+[
+  {
+    "image": "image_xwm/1.png",
+    "tags": [
+      { "label": "遥遥领先", "weight": 1.0 },
+      { "label": "骄傲自豪", "weight": 0.9 },
+      { "label": "赢麻了", "weight": 0.8 },
+      { "label": "支持国货", "weight": 0.9 },
+      { "label": "夸赞企业", "weight": 0.9 },
+      { "label": "一骑绝尘", "weight": 0.8 },
+      { "label": "太强了", "weight": 0.8 },
+      { "label": "这就是实力", "weight": 0.7 },
+      { "label": "没对手", "weight": 0.6 },
+      { "label": "华为", "weight": 0.8 },
+      { "label": "中国", "weight": 0.8 },
+      { "label": "国产科技", "weight": 0.7 },
+      { "label": "某个品牌", "weight": 0.6 },
+      { "label": "体育冠军", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/2.png",
+    "tags": [
+      { "label": "必须严惩", "weight": 1.0 },
+      { "label": "愤怒", "weight": 0.9 },
+      { "label": "整治一下", "weight": 0.8 },
+      { "label": "重拳出击", "weight": 1.0 },
+      { "label": "打击", "weight": 0.8 },
+      { "label": "官方出手", "weight": 0.9 },
+      { "label": "必须严查", "weight": 0.9 },
+      { "label": "平台加强监管", "weight": 0.8 },
+      { "label": "不能姑息", "weight": 0.8 },
+      { "label": "乱象整治", "weight": 0.7 },
+      { "label": "监管部门", "weight": 0.8 },
+      { "label": "官方", "weight": 0.8 },
+      { "label": "平台", "weight": 0.7 },
+      { "label": "消费者", "weight": 0.7 },
+      { "label": "正义网友", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/3.png",
+    "tags": [
+      { "label": "看不懂", "weight": 0.9 },
+      { "label": "有内幕", "weight": 0.9 },
+      { "label": "复杂", "weight": 0.8 },
+      { "label": "水太深", "weight": 1.0 },
+      { "label": "这里面事儿不少", "weight": 0.9 },
+      { "label": "都是套路", "weight": 0.9 },
+      { "label": "行业内幕", "weight": 0.8 },
+      { "label": "小白别碰", "weight": 0.7 },
+      { "label": "不敢说话", "weight": 0.7 },
+      { "label": "股市", "weight": 0.8 },
+      { "label": "电商", "weight": 0.7 },
+      { "label": "娱乐圈", "weight": 0.7 },
+      { "label": "房地产", "weight": 0.7 },
+      { "label": "职场", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/4.png",
+    "tags": [
+      { "label": "害怕", "weight": 0.9 },
+      { "label": "背后一凉", "weight": 0.9 },
+      { "label": "不敢想", "weight": 0.8 },
+      { "label": "细思极恐", "weight": 1.0 },
+      { "label": "越想越不对劲", "weight": 0.9 },
+      { "label": "让人后怕", "weight": 0.8 },
+      { "label": "感觉有阴谋", "weight": 0.8 },
+      { "label": "杞人忧天", "weight": 0.7 },
+      { "label": "社会新闻", "weight": 0.8 },
+      { "label": "阴谋论", "weight": 0.7 },
+      { "label": "个人信息安全", "weight": 0.7 },
+      { "label": "悬疑剧情", "weight": 0.6 },
+      { "label": "大数据", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/5.png",
+    "tags": [
+      { "label": "稳了", "weight": 0.9 },
+      { "label": "尽在掌握", "weight": 0.8 },
+      { "label": "小菜一碟", "weight": 0.8 },
+      { "label": "轻松拿捏", "weight": 1.0 },
+      { "label": "这不就搞定了", "weight": 0.9 },
+      { "label": "意料之中", "weight": 0.8 },
+      { "label": "技术性调整", "weight": 0.7 },
+      { "label": "问题不大", "weight": 0.7 },
+      { "label": "大神", "weight": 0.8 },
+      { "label": "主力", "weight": 0.7 },
+      { "label": "专家", "weight": 0.7 },
+      { "label": "学霸", "weight": 0.7 },
+      { "label": "官方", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/6.png",
+    "tags": [
+      { "label": "我是小丑", "weight": 1.0 },
+      { "label": "无语了", "weight": 0.9 },
+      { "label": "自我嘲讽", "weight": 0.9 },
+      { "label": "小丑竟是我自己", "weight": 1.0 },
+      { "label": "白忙活了", "weight": 0.8 },
+      { "label": "被当猴耍", "weight": 0.8 },
+      { "label": "还以为...", "weight": 0.7 },
+      { "label": "你贪他利息他贪你本金", "weight": 0.7 },
+      { "label": "散户", "weight": 0.8 },
+      { "label": "我自己", "weight": 0.8 },
+      { "label": "打工人", "weight": 0.7 },
+      { "label": "消费者", "weight": 0.6 },
+      { "label": "舔狗", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/7.png",
+    "tags": [
+      { "label": "不甘心", "weight": 1.0 },
+      { "label": "气死了", "weight": 0.9 },
+      { "label": "凭什么", "weight": 0.8 },
+      { "label": "意难平", "weight": 1.0 },
+      { "label": "越想越气", "weight": 0.9 },
+      { "label": "这结局我不接受", "weight": 0.8 },
+      { "label": "可惜了", "weight": 0.7 },
+      { "label": "我的CP", "weight": 0.6 },
+      { "label": "追剧党", "weight": 0.8 },
+      { "label": "球迷", "weight": 0.7 },
+      { "label": "粉丝", "weight": 0.7 },
+      { "label": "考生", "weight": 0.6 },
+      { "label": "前任", "weight": 0.5 }
+    ]
+  },
+  {
+    "image": "image_xwm/8.png",
+    "tags": [
+      { "label": "鄙视", "weight": 0.9 },
+      { "label": "真恶心", "weight": 0.8 },
+      { "label": "无语", "weight": 0.8 },
+      { "label": "吃相太难看了", "weight": 1.0 },
+      { "label": "毫无底线", "weight": 0.9 },
+      { "label": "割韭菜", "weight": 0.9 },
+      { "label": "司马昭之心", "weight": 0.7 },
+      { "label": "又是套路", "weight": 0.7 },
+      { "label": "资本", "weight": 0.8 },
+      { "label": "某些公司", "weight": 0.7 },
+      { "label": "平台", "weight": 0.7 },
+      { "label": "物业", "weight": 0.6 },
+      { "label": "黄牛", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/9.png",
+    "tags": [
+      { "label": "无语", "weight": 1.0 },
+      { "label": "马后炮", "weight": 0.9 },
+      { "label": "费解", "weight": 0.8 },
+      { "label": "早干嘛去了", "weight": 1.0 },
+      { "label": "现在才来管", "weight": 0.9 },
+      { "label": "亡羊补牢", "weight": 0.8 },
+      { "label": "事先不知道吗", "weight": 0.8 },
+      { "label": "之前装死", "weight": 0.7 },
+      { "label": "官方回应", "weight": 0.8 },
+      { "label": "物业", "weight": 0.7 },
+      { "label": "平台监管", "weight": 0.7 },
+      { "label": "危机公关", "weight": 0.6 },
+      { "label": "另一半", "weight": 0.5 }
+    ]
+  },
+  {
+    "image": "image_xwm/10.png",
+    "tags": [
+      { "label": "破防了", "weight": 1.0 },
+      { "label": "绷不住了", "weight": 0.9 },
+      { "label": "心态崩了", "weight": 0.9 },
+      { "label": "我破防了", "weight": 1.0 },
+      { "label": "扎心了", "weight": 0.9 },
+      { "label": "别骂了别骂了", "weight": 0.8 },
+      { "label": "戳到痛处了", "weight": 0.8 },
+      { "label": "蚌埠住了", "weight": 0.7 },
+      { "label": "伤害性不大侮辱性极强", "weight": 0.7 },
+      { "label": "散户", "weight": 0.8 },
+      { "label": "打工人", "weight": 0.8 },
+      { "label": "我自己", "weight": 0.7 },
+      { "label": "游戏玩家", "weight": 0.6 },
+      { "label": "emo人", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/11.png",
+    "tags": [
+      { "label": "后悔了", "weight": 0.9 },
+      { "label": "破防了", "weight": 0.9 },
+      { "label": "我错了", "weight": 0.8 },
+      { "label": "当初瞎了眼", "weight": 0.9 },
+      { "label": "不该贪小便宜", "weight": 0.8 },
+      { "label": "我真傻", "weight": 0.8 },
+      { "label": "被骗了", "weight": 0.7 },
+      { "label": "交学费了", "weight": 0.7 },
+      { "label": "再也不信了", "weight": 0.6 },
+      { "label": "股民", "weight": 0.8 },
+      { "label": "韭菜", "weight": 0.8 },
+      { "label": "消费者", "weight": 0.7 }
+    ]
+  },
+  {
+    "image": "image_xwm/12.png",
+    "tags": [
+      { "label": "想不通", "weight": 0.9 },
+      { "label": "头大了", "weight": 0.9 },
+      { "label": "信息量太大", "weight": 0.8 },
+      { "label": "脑子不够用了", "weight": 0.9 },
+      { "label": "这都什么跟什么", "weight": 0.8 },
+      { "label": "逻辑炸了", "weight": 0.8 },
+      { "label": "让我缓缓", "weight": 0.7 },
+      { "label": "过度思考", "weight": 0.7 },
+      { "label": "算不明白了", "weight": 0.6 },
+      { "label": "打工人", "weight": 0.8 },
+      { "label": "电商人", "weight": 0.7 },
+      { "label": "程序员", "weight": 0.6 },
+      { "label": "学生", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/13.png",
+    "tags": [
+      { "label": "拼了", "weight": 0.9 },
+      { "label": "加油干", "weight": 0.9 },
+      { "label": "打鸡血", "weight": 0.8 },
+      { "label": "干就完了", "weight": 1.0 },
+      { "label": "奥利给", "weight": 0.9 },
+      { "label": "冲冲冲", "weight": 0.9 },
+      { "label": "搞事业", "weight": 0.8 },
+      { "label": "别想那么多", "weight": 0.7 },
+      { "label": "打工人加油", "weight": 0.7 },
+      { "label": "打工人", "weight": 0.8 },
+      { "label": "创业者", "weight": 0.7 },
+      { "label": "中国企业", "weight": 0.7 },
+      { "label": "奋斗比", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/14.png",
+    "tags": [
+      { "label": "亏麻了", "weight": 1.0 },
+      { "label": "心态崩了", "weight": 0.9 },
+      { "label": "芭比Q了", "weight": 0.8 },
+      { "label": "这波血亏", "weight": 1.0 },
+      { "label": "被割韭菜了", "weight": 0.9 },
+      { "label": "天台见", "weight": 0.8 },
+      { "label": "我的钱啊", "weight": 0.8 },
+      { "label": "抄底抄在半山腰", "weight": 0.7 },
+      { "label": "基金亏了", "weight": 0.7 },
+      { "label": "股民", "weight": 0.8 },
+      { "label": "韭菜", "weight": 0.8 },
+      { "label": "基金人", "weight": 0.7 },
+      { "label": "币圈人", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/15.png",
+    "tags": [
+      { "label": "无语了", "weight": 0.9 },
+      { "label": "谴责", "weight": 0.9 },
+      { "label": "质问", "weight": 0.8 },
+      { "label": "良心不会痛吗", "weight": 1.0 },
+      { "label": "做个人吧", "weight": 0.9 },
+      { "label": "这么干也行？", "weight": 0.8 },
+      { "label": "还有王法吗", "weight": 0.7 },
+      { "label": "官方出来走两步", "weight": 0.7 },
+      { "label": "割韭菜的", "weight": 0.6 },
+      { "label": "物业", "weight": 0.8 },
+      { "label": "无良商家", "weight": 0.8 },
+      { "label": "专家", "weight": 0.7 },
+      { "label": "平台", "weight": 0.7 }
+    ]
+  },
+  {
+    "image": "image_xwm/16.png",
+    "tags": [
+      { "label": "真的假的", "weight": 0.9 },
+      { "label": "难以置信", "weight": 0.8 },
+      { "label": "我看看", "weight": 0.8 },
+      { "label": "尊嘟假嘟", "weight": 1.0 },
+      { "label": "还有这事？", "weight": 0.9 },
+      { "label": "不是吧", "weight": 0.8 },
+      { "label": "吃瓜", "weight": 0.8 },
+      { "label": "求个出处", "weight": 0.7 },
+      { "label": "让子弹飞一会儿", "weight": 0.6 },
+      { "label": "吃瓜群众", "weight": 0.8 },
+      { "label": "网友", "weight": 0.8 },
+      { "label": "我", "weight": 0.7 },
+      { "label": "朋友", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/17.png",
+    "tags": [
+      { "label": "战斗力爆表", "weight": 0.9 },
+      { "label": "燃起来了", "weight": 0.9 },
+      { "label": "怼他", "weight": 0.8 },
+      { "label": "火力全开", "weight": 1.0 },
+      { "label": "开干", "weight": 0.9 },
+      { "label": "键盘侠上线", "weight": 0.8 },
+      { "label": "今天状态满了", "weight": 0.7 },
+      { "label": "谁也别惹我", "weight": 0.7 },
+      { "label": "跟丫拼了", "weight": 0.6 },
+      { "label": "打工人", "weight": 0.8 },
+      { "label": "中国", "weight": 0.7 },
+      { "label": "喷子", "weight": 0.7 },
+      { "label": "华为", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/18.png",
+    "tags": [
+      { "label": "喜欢", "weight": 0.9 },
+      { "label": "点赞", "weight": 0.9 },
+      { "label": "种草了", "weight": 0.8 },
+      { "label": "爱了爱了", "weight": 1.0 },
+      { "label": "必须赞", "weight": 0.9 },
+      { "label": "这个好", "weight": 0.8 },
+      { "label": "买它", "weight": 0.8 },
+      { "label": "粉了", "weight": 0.7 },
+      { "label": "学到了", "weight": 0.6 },
+      { "label": "胖东来", "weight": 0.8 },
+      { "label": "良心企业", "weight": 0.7 },
+      { "label": "国货", "weight": 0.7 },
+      { "label": "偶像", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/19.png",
+    "tags": [
+      { "label": "太牛了", "weight": 1.0 },
+      { "label": "无敌了", "weight": 0.9 },
+      { "label": "遥遥领先", "weight": 0.8 },
+      { "label": "赢麻了", "weight": 1.0 },
+      { "label": "YYDS", "weight": 0.9 },
+      { "label": "又是第一", "weight": 0.8 },
+      { "label": "开挂了", "weight": 0.8 },
+      { "label": "还有谁", "weight": 0.7 },
+      { "label": "别人家的", "weight": 0.6 },
+      { "label": "中国", "weight": 0.7 },
+      { "label": "华为", "weight": 0.7 }
+    ]
+  },
+  {
+    "image": "image_xwm/20.png",
+    "tags": [
+      { "label": "懂了", "weight": 0.9 },
+      { "label": "原来如此", "weight": 0.9 },
+      { "label": "专业", "weight": 0.8 },
+      { "label": "有理有据", "weight": 1.0 },
+      { "label": "分析到位", "weight": 0.9 },
+      { "label": "课代表", "weight": 0.8 },
+      { "label": "格局打开", "weight": 0.8 },
+      { "label": "细节", "weight": 0.7 },
+      { "label": "听君一席话", "weight": 0.6 },
+      { "label": "大佬", "weight": 0.8 },
+      { "label": "分析师", "weight": 0.8 },
+      { "label": "专家", "weight": 0.7 },
+      { "label": "技术宅", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/21.png",
+    "tags": [
+      { "label": "破防了", "weight": 0.9 },
+      { "label": "无语了", "weight": 0.9 },
+      { "label": "惊呆了", "weight": 0.8 },
+      { "label": "蚌埠住了", "weight": 1.0 },
+      { "label": "心态崩了", "weight": 0.9 },
+      { "label": "我真的会谢", "weight": 0.8 },
+      { "label": "太离谱了", "weight": 0.9 },
+      { "label": "怎么想都想不通", "weight": 0.7 },
+      { "label": "尬住了", "weight": 0.7 },
+      { "label": "没想到啊", "weight": 0.8 },
+      { "label": "股民", "weight": 0.8 },
+      { "label": "韭菜", "weight": 0.7 },
+      { "label": "打工人", "weight": 0.8 },
+      { "label": "消费者", "weight": 0.7 },
+      { "label": "吃瓜群众", "weight": 0.8 }
+    ]
+  },
+  {
+    "image": "image_xwm/22.png",
+    "tags": [
+      { "label": "看不下去了", "weight": 0.9 },
+      { "label": "重拳出击", "weight": 0.8 },
+      { "label": "整治一下", "weight": 0.9 },
+      { "label": "乱象退散", "weight": 1.0 },
+      { "label": "净化环境", "weight": 0.9 },
+      { "label": "拨乱反正", "weight": 0.7 },
+      { "label": "妖魔鬼怪快离开", "weight": 0.7 },
+      { "label": "退！退！退！", "weight": 1.0 },
+      { "label": "必须严查", "weight": 0.8 },
+      { "label": "正道的光", "weight": 0.8 },
+      { "label": "官方", "weight": 0.8 },
+      { "label": "监管部门", "weight": 0.7 },
+      { "label": "正义的网友", "weight": 0.8 },
+      { "label": "平台", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/23.png",
+    "tags": [
+      { "label": "零容忍", "weight": 1.0 },
+      { "label": "没得商量", "weight": 0.9 },
+      { "label": "态度强硬", "weight": 0.8 },
+      { "label": "忍不了了", "weight": 0.9 },
+      { "label": "必须严惩", "weight": 0.9 },
+      { "label": "绝不姑息", "weight": 0.8 },
+      { "label": "这是底线", "weight": 0.8 },
+      { "label": "忍无可忍", "weight": 0.9 },
+      { "label": "别跟我扯淡", "weight": 0.7 },
+      { "label": "我本人", "weight": 0.8 },
+      { "label": "消费者", "weight": 0.7 },
+      { "label": "监管", "weight": 0.8 },
+      { "label": "业主", "weight": 0.6 },
+      { "label": "人民的铁拳", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "image_xwm/24.png",
+    "tags": [
+      { "label": "脸好疼", "weight": 1.0 },
+      { "label": "尴尬了", "weight": 0.9 },
+      { "label": "没想到吧", "weight": 0.8 },
+      { "label": "狠狠打脸", "weight": 1.0 },
+      { "label": "小丑竟是我自己", "weight": 1.0 },
+      { "label": "反转了", "weight": 0.9 },
+      { "label": "求锤得锤", "weight": 0.8 },
+      { "label": "预判失误", "weight": 0.8 },
+      { "label": "事实胜于雄辩", "weight": 0.7 },
+      { "label": "专家", "weight": 0.8 },
+      { "label": "预言家", "weight": 0.7 },
+      { "label": "我自己", "weight": 0.8 },
+      { "label": "键盘侠", "weight": 0.7 }
+    ]
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "image": "images/Group 114.png",
+    "tags": [
+      { "label": "破防", "weight": 1.0 },
+      { "label": "崩溃", "weight": 0.9 },
+      { "label": "无语", "weight": 0.8 },
+      { "label": "比惨", "weight": 0.6 },
+      { "label": "蚌埠住了", "weight": 1.0 },
+      { "label": "绷不住了", "weight": 1.0 },
+      { "label": "我真的会谢", "weight": 0.8 },
+      { "label": "破大防", "weight": 0.9 },
+      { "label": "麻了", "weight": 0.7 },
+      { "label": "心态崩了", "weight": 0.8 },
+      { "label": "没眼看", "weight": 0.6 },
+      { "label": "股民", "weight": 0.5 },
+      { "label": "打工人", "weight": 0.5 }
+    ]
+  },
+  {
+    "image": "images/Group 92.png",
+    "tags": [
+      { "label": "嘲讽", "weight": 0.9 },
+      { "label": "幸灾乐祸", "weight": 0.8 },
+      { "label": "得意", "weight": 0.7 },
+      { "label": "狠狠打脸", "weight": 1.0 },
+      { "label": "早就说了", "weight": 0.8 },
+      { "label": "看你还吹", "weight": 0.8 },
+      { "label": "这下尴尬了", "weight": 0.7 },
+      { "label": "事实胜于雄辩", "weight": 0.6 },
+      { "label": "专家", "weight": 0.6 },
+      { "label": "官方", "weight": 0.5 },
+      { "label": "主力", "weight": 0.6 },
+      { "label": "学校", "weight": 0.4 },
+      { "label": "吹牛的人", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/Group 93.png",
+    "tags": [
+      { "label": "鄙视", "weight": 0.9 },
+      { "label": "嫌弃", "weight": 0.8 },
+      { "label": "讽刺", "weight": 0.8 },
+      { "label": "太坑了", "weight": 0.8 },
+      { "label": "要脸", "weight": 0.6 },
+      { "label": "吃相难看", "weight": 1.0 },
+      { "label": "毫无底线", "weight": 0.9 },
+      { "label": "贪得无厌", "weight": 0.8 },
+      { "label": "真下头", "weight": 0.8 },
+      { "label": "资本", "weight": 0.8 },
+      { "label": "某些公司", "weight": 0.8 },
+      { "label": "物业", "weight": 0.6 },
+      { "label": "领导", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/Group 94.png",
+    "tags": [
+      { "label": "质问", "weight": 0.9 },
+      { "label": "失望", "weight": 0.7 },
+      { "label": "良心不会痛吗", "weight": 1.0 },
+      { "label": "坑人", "weight": 0.8 },
+      { "label": "要脸", "weight": 0.8 },
+      { "label": "电商套路", "weight": 0.9 },
+      { "label": "欺骗消费者", "weight": 0.8 },
+      { "label": "平台", "weight": 0.9 },
+      { "label": "商家", "weight": 0.9 },
+      { "label": "无良企业", "weight": 0.9 }
+    ]
+  },
+  {
+    "image": "images/Group 95.png",
+    "tags": [
+      { "label": "愤怒", "weight": 0.9 },
+      { "label": "严惩", "weight": 0.9 },
+      { "label": "坚决", "weight": 0.8 },
+      { "label": "重锤出击", "weight": 1.0 },
+      { "label": "重拳", "weight": 1.0 },
+      { "label": "打击", "weight": 0.8 },
+      { "label": "出击", "weight": 0.6 },
+      { "label": "必须严查", "weight": 0.9 },
+      { "label": "加大力度", "weight": 0.8 },
+      { "label": "给我封了", "weight": 0.8 },
+      { "label": "零容忍", "weight": 0.7 },
+      { "label": "整治乱象", "weight": 0.9 },
+      { "label": "监管", "weight": 0.9 },
+      { "label": "国家", "weight": 0.7 },
+      { "label": "正义的网友", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/Group 96.png",
+    "tags": [
+      { "label": "零容忍", "weight": 1.0 },
+      { "label": "严肃", "weight": 0.8 },
+      { "label": "这是底线", "weight": 0.9 },
+      { "label": "绝不姑息", "weight": 0.8 },
+      { "label": "没得商量", "weight": 0.8 },
+      { "label": "必须禁止", "weight": 0.7 },
+      { "label": "官方态度", "weight": 0.9 },
+      { "label": "平台规则", "weight": 0.8 },
+      { "label": "监管", "weight": 0.5 },
+      { "label": "擦边行为", "weight": 0.8 },
+      { "label": "个人原则", "weight": 0.5 }
+    ]
+  },
+  {
+    "image": "images/Group 97.png",
+    "tags": [
+      { "label": "乱象退散", "weight": 1.0 },
+      { "label": "整治", "weight": 0.9 },
+      { "label": "权威", "weight": 0.8 },
+      { "label": "决断", "weight": 0.8 },
+      { "label": "一律禁播", "weight": 0.9 },
+      { "label": "看不下去了", "weight": 0.8 },
+      { "label": "加强监管", "weight": 0.8 },
+      { "label": "官方下场", "weight": 0.8 },
+      { "label": "正道的光", "weight": 0.7 },
+      { "label": "平台监管", "weight": 0.9 }
+    ]
+  },
+  {
+    "image": "images/Group 98.png",
+    "tags": [
+      { "label": "破防", "weight": 1.0 },
+      { "label": "比惨", "weight": 0.6 },
+      { "label": "崩溃", "weight": 0.9 },
+      { "label": "扎心", "weight": 0.9 },
+      { "label": "蚌埠住了", "weight": 0.9 },
+      { "label": "崩不住了", "weight": 0.9 },
+      { "label": "散户", "weight": 0.4 },
+      { "label": "股民", "weight": 0.4 },
+      { "label": "被割韭菜了", "weight": 0.9 },
+      { "label": "他贪你的本金", "weight": 0.8 },
+      { "label": "消费者", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/Group 99.png",
+    "tags": [
+      { "label": "后悔", "weight": 1.0 },
+      { "label": "猪油蒙了心", "weight": 1.0 },
+      { "label": "悔不当初", "weight": 0.9 },
+      { "label": "愚蠢", "weight": 0.8 },
+      { "label": "曾经的我", "weight": 1.0 },
+      { "label": "现在就是后悔", "weight": 1.0 },
+      { "label": "脑子进水了", "weight": 0.9 },
+      { "label": "投资者", "weight": 0.9 },
+      { "label": "贪了小便宜", "weight": 0.8 },
+      { "label": "真该死啊", "weight": 0.8 }
+    ]
+  },
+  {
+    "image": "images/Group 100.png",
+    "tags": [
+      { "label": "自嘲", "weight": 1.0 },
+      { "label": "幻灭", "weight": 0.9 },
+      { "label": "无奈", "weight": 0.8 },
+      { "label": "小丑竟是我自己", "weight": 1.0 },
+      { "label": "小丑", "weight": 0.9 },
+      { "label": "舔狗", "weight": 0.7 },
+      { "label": "以为自己很重要", "weight": 0.9 },
+      { "label": "原来是这样", "weight": 0.8 },
+      { "label": "普通人", "weight": 0.9 },
+      { "label": "股东", "weight": 0.9 }
+    ]
+  },
+  {
+    "image": "images/Group 101.png",
+    "tags": [
+      { "label": "复杂", "weight": 1.0 },
+      { "label": "震惊", "weight": 0.9 },
+      { "label": "害怕", "weight": 0.4 },
+      { "label": "这圈子水太深", "weight": 1.0 },
+      { "label": "不敢说话", "weight": 0.4 },
+      { "label": "娱乐圈", "weight": 0.8 },
+      { "label": "演员", "weight": 0.6 },
+      { "label": "资本", "weight": 0.4 },
+      { "label": "股市", "weight": 0.8 },
+      { "label": "瑟瑟发抖", "weight": 0.7 },
+      { "label": "城里人真会玩", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/Group 102.png",
+    "tags": [
+      { "label": "质疑", "weight": 1.0 },
+      { "label": "不满", "weight": 0.8 },
+      { "label": "早干嘛去了", "weight": 1.0 },
+      { "label": "马后炮", "weight": 0.9 },
+      { "label": "事后诸葛亮", "weight": 0.8 },
+      { "label": "甩锅", "weight": 0.7 },
+      { "label": "某些大学", "weight": 0.5 },
+      { "label": "亡羊补牢", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/Group 103.png",
+    "tags": [
+      { "label": "怀疑", "weight": 1.0 },
+      { "label": "困惑", "weight": 0.9 },
+      { "label": "难以置信", "weight": 0.8 },
+      { "label": "尊嘟假嘟", "weight": 1.0 },
+      { "label": "真的假的", "weight": 1.0 },
+      { "label": "你在逗我吗", "weight": 0.9 },
+      { "label": "还有这种操作", "weight": 0.8 },
+      { "label": "听君一席话", "weight": 0.4 },
+      { "label": "不相信", "weight": 0.7 }
+    ]
+  },
+  {
+    "image": "images/Group 104.png",
+    "tags": [
+      { "label": "专业", "weight": 1.0 },
+      { "label": "信服", "weight": 0.9 },
+      { "label": "佩服", "weight": 0.8 },
+      { "label": "有理有据", "weight": 1.0 },
+      { "label": "课代表", "weight": 0.9 },
+      { "label": "大神", "weight": 0.8 },
+      { "label": "分析得头头是道", "weight": 0.9 },
+      { "label": "学到了", "weight": 0.8 },
+      { "label": "技术流", "weight": 0.7 },
+      { "label": "懂哥", "weight": 0.5 },
+      { "label": "内部人士", "weight": 0.8 }
+    ]
+  },
+  {
+    "image": "images/Group 105.png",
+    "tags": [
+      { "label": "烧脑", "weight": 1.0 },
+      { "label": "混乱", "weight": 0.9 },
+      { "label": "CPU干烧了", "weight": 1.0 },
+      { "label": "看不懂", "weight": 0.9 },
+      { "label": "复杂", "weight": 0.8 },
+      { "label": "信息量巨大", "weight": 0.9 },
+      { "label": "头疼", "weight": 0.8 },
+      { "label": "算不明白", "weight": 0.7 },
+      { "label": "股市分析", "weight": 0.9 },
+      { "label": "物流规则", "weight": 0.8 },
+      { "label": "大数据", "weight": 0.8 }
+    ]
+  },
+  {
+    "image": "images/Group 106.png",
+    "tags": [
+      { "label": "赢麻了", "weight": 1.0 },
+      { "label": "狂喜", "weight": 0.9 },
+      { "label": "骄傲", "weight": 0.8 },
+      { "label": "遥遥领先", "weight": 0.9 },
+      { "label": "冠军", "weight": 0.8 },
+      { "label": "优等生", "weight": 0.9 },
+      { "label": "中国", "weight": 0.4 },
+      { "label": "国企", "weight": 0.9 },
+      { "label": "学霸", "weight": 0.7 },
+      { "label": "投资成功", "weight": 0.8 },
+      { "label": "政府", "weight": 0.4 },
+      { "label": "运动员", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/Group 107.png",
+    "tags": [
+      { "label": "自信", "weight": 1.0 },
+      { "label": "遥遥领先", "weight": 1.0 },
+      { "label": "碾压", "weight": 0.8 },
+      { "label": "冠军", "weight": 0.9 },
+      { "label": "实力碾压", "weight": 0.8 },
+      { "label": "国产之光", "weight": 0.9 },
+      { "label": "超越自我", "weight": 0.7 },
+      { "label": "没对手", "weight": 0.6 },
+      { "label": "华为", "weight": 1.0 },
+      { "label": "中国科技", "weight": 0.9 },
+      { "label": "新能源车", "weight": 0.8 },
+      { "label": "体育迷", "weight": 0.7 }
+    ]
+  },
+  {
+    "image": "images/Group 108.png",
+    "tags": [
+      { "label": "激昂", "weight": 0.9 },
+      { "label": "奋斗", "weight": 0.9 },
+      { "label": "坚定", "weight": 0.8 },
+      { "label": "火力全开", "weight": 1.0 },
+      { "label": "加油干", "weight": 0.9 },
+      { "label": "冲啊", "weight": 0.8 },
+      { "label": "打工人加油", "weight": 0.4 },
+      { "label": "搞事业", "weight": 0.7 },
+      { "label": "备考", "weight": 0.6 },
+      { "label": "又是努力的一天", "weight": 0.7 },
+      { "label": "创业者", "weight": 0.6 },
+      { "label": "考生", "weight": 0.7 },
+      { "label": "项目组", "weight": 0.7 }
+    ]
+  },
+  {
+    "image": "images/Group 109.png",
+    "tags": [
+      { "label": "喜爱", "weight": 1.0 },
+      { "label": "欣赏", "weight": 0.9 },
+      { "label": "满足", "weight": 0.8 },
+      { "label": "伟大", "weight": 0.8 },
+      { "label": "致敬", "weight": 0.5 },
+      { "label": "爱了爱了", "weight": 1.0 },
+      { "label": "疯狂点赞", "weight": 0.9 },
+      { "label": "太可爱了", "weight": 0.8 },
+      { "label": "狠狠赞同", "weight": 0.9 },
+      { "label": "被种草了", "weight": 0.7 },
+      { "label": "值得点赞", "weight": 0.8 },
+      { "label": "赞赞赞", "weight": 0.8 },
+      { "label": "粉丝", "weight": 0.4 },
+      { "label": "追星女孩", "weight": 0.4 },
+      { "label": "铲屎官", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/Group 110.png",
+    "tags": [
+      { "label": "决心", "weight": 1.0 },
+      { "label": "勇往直前", "weight": 0.9 },
+      { "label": "破釜沉舟", "weight": 0.7 },
+      { "label": "干就完了", "weight": 1.0 },
+      { "label": "别废话", "weight": 0.8 },
+      { "label": "冲就对了", "weight": 0.9 },
+      { "label": "打工魂", "weight": 0.8 },
+      { "label": "搬砖人", "weight": 0.7 },
+      { "label": "立行立改", "weight": 0.9 },
+      { "label": "奥利给", "weight": 0.6 },
+      { "label": "执行者", "weight": 0.9 },
+      { "label": "程序员", "weight": 0.4 },
+      { "label": "项目经理", "weight": 0.4 },
+      { "label": "施工队", "weight": 0.4 }
+    ]
+  },
+  {
+    "image": "images/Group 111.png",
+    "tags": [
+      { "label": "得意", "weight": 0.9 },
+      { "label": "掌控", "weight": 0.8 },
+      { "label": "轻松拿捏", "weight": 1.0 },
+      { "label": "小菜一碟", "weight": 0.8 },
+      { "label": "搞定了", "weight": 0.9 },
+      { "label": "这不有手就行", "weight": 0.7 },
+      { "label": "问题不大", "weight": 0.8 },
+      { "label": "看穿套路", "weight": 0.9 },
+      { "label": "简单", "weight": 0.7 },
+      { "label": "技术宅", "weight": 0.4 },
+      { "label": "老司机", "weight": 0.8 },
+      { "label": "分析师", "weight": 0.4 },
+      { "label": "电商专家", "weight": 0.4 }
+    ]
+  },
+  {
+    "image": "images/Group 112.png",
+    "tags": [
+      { "label": "愤慨", "weight": 1.0 },
+      { "label": "不甘", "weight": 0.9 },
+      { "label": "惋惜", "weight": 0.8 },
+      { "label": "意难平", "weight": 1.0 },
+      { "label": "气死我了", "weight": 0.8 },
+      { "label": "为什么会这样", "weight": 0.7 },
+      { "label": "想不通", "weight": 0.7 },
+      { "label": "球迷", "weight": 0.9 },
+      { "label": "剧迷", "weight": 0.8 },
+      { "label": "被套牢的散户", "weight": 0.9 }
+    ]
+  },
+  {
+    "image": "images/Group 113.png",
+    "tags": [
+      { "label": "悔恨", "weight": 0.9 },
+      { "label": "悲痛", "weight": 0.8 },
+      { "label": "这波血亏", "weight": 1.0 },
+      { "label": "亏麻了", "weight": 0.9 },
+      { "label": "我裂开了", "weight": 0.8 },
+      { "label": "韭菜的眼泪", "weight": 0.9 },
+      { "label": "贪小便宜吃大亏", "weight": 0.8 },
+      { "label": "钱包空空", "weight": 0.7 },
+      { "label": "剁手后悔", "weight": 0.6 },
+      { "label": "基金人", "weight": 0.9 },
+      { "label": "赌狗", "weight": 0.7 }
+    ]
+  },
+  {
+    "image": "images/Group 115.png",
+    "tags": [
+      { "label": "恐惧", "weight": 0.9 },
+      { "label": "焦虑", "weight": 0.8 },
+      { "label": "细思极恐", "weight": 1.0 },
+      { "label": "感觉不对劲", "weight": 0.9 },
+      { "label": "背后一凉", "weight": 0.8 },
+      { "label": "水很深", "weight": 0.8 },
+      { "label": "这里有坑", "weight": 0.7 },
+      { "label": "大数据收割", "weight": 0.8 },
+      { "label": "杞人忧天", "weight": 0.6 },
+      { "label": "物业业主", "weight": 0.7 }
+    ]
+  },
+    {
+    "image": "images/Group 129.png",
+    "tags": [
+      { "label": "看热闹", "weight": 0.95 },
+      { "label": "中立客观", "weight": 0.9 },
+      { "label": "坐等后续", "weight": 0.9 },
+      { "label": "吃瓜", "weight": 1.0 },
+      { "label": "理性", "weight": 1.0 },
+      { "label": "中性", "weight": 0.9 },
+      { "label": "围观", "weight": 0.9 },
+      { "label": "发生甚么事了", "weight": 0.85 },
+      { "label": "前排瓜子", "weight": 0.8 },
+      { "label": "让子弹飞一会儿", "weight": 0.8 },
+      { "label": "不信谣不传谣", "weight": 0.75 },
+      { "label": "吃瓜群众", "weight": 0.8 },
+      { "label": "网友", "weight": 0.8 },
+      { "label": "评论区", "weight": 0.65 },
+      { "label": "社会新闻", "weight": 0.6 },
+      { "label": "明星八卦", "weight": 0.65 },
+      { "label": "股市", "weight": 0.7 },
+      { "label": "电商纠纷", "weight": 0.45 }
+    ]
+  },
+  {
+    "image": "images/Group 130.png",
+    "tags": [
+      { "label": "好奇", "weight": 0.9 },
+      { "label": "催更", "weight": 0.95 },
+      { "label": "期待", "weight": 0.85 },
+      { "label": "蹲后续", "weight": 1.0 },
+      { "label": "等更新", "weight": 0.9 },
+      { "label": "还有后续吗", "weight": 0.85 },
+      { "label": "坐等结果", "weight": 0.8 },
+      { "label": "插个眼", "weight": 0.8 },
+      { "label": "持续关注", "weight": 0.75 },
+      { "label": "敲碗等", "weight": 0.7 },
+      { "label": "事件进展", "weight": 0.8 },
+      { "label": "官方通报", "weight": 0.75 },
+      { "label": "记者", "weight": 0.4 },
+      { "label": "爆料", "weight": 0.7 },
+      { "label": "警方", "weight": 0.55 },
+      { "label": "剧情反转", "weight": 0.7 }
+    ]
+  },
+  {
+    "image": "images/Group 131.png",
+    "tags": [
+      { "label": "无语了", "weight": 0.95 },
+      { "label": "头疼", "weight": 0.9 },
+      { "label": "心累", "weight": 0.9 },
+      { "label": "一言难尽", "weight": 1.0 },
+      { "label": "别提了", "weight": 0.9 },
+      { "label": "不知道怎么说", "weight": 0.85 },
+      { "label": "情况复杂", "weight": 0.8 },
+      { "label": "糟心事", "weight": 0.8 },
+      { "label": "麻了", "weight": 0.9 },
+      { "label": "难评", "weight": 0.85 },
+      { "label": "物业", "weight": 0.8 },
+      { "label": "快递物流", "weight": 0.7 },
+      { "label": "国足", "weight": 0.75 },
+      { "label": "A股", "weight": 0.8 },
+      { "label": "工作", "weight": 0.7 },
+      { "label": "某些专家", "weight": 0.75 },
+      { "label": "奇葩客户", "weight": 0.7 }
+    ]
+  }
+]

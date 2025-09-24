@@ -177,6 +177,7 @@
       { "label": "别骂了别骂了", "weight": 0.8 },
       { "label": "戳到痛处了", "weight": 0.8 },
       { "label": "蚌埠住了", "weight": 0.7 },
+      { "label": "难绷", "weight": 0.8 },
       { "label": "伤害性不大侮辱性极强", "weight": 0.7 },
       { "label": "散户", "weight": 0.8 },
       { "label": "打工人", "weight": 0.8 },
@@ -243,6 +244,7 @@
     "tags": [
       { "label": "亏麻了", "weight": 1.0 },
       { "label": "心态崩了", "weight": 0.9 },
+      { "label": "难绷", "weight": 0.8 },
       { "label": "芭比Q了", "weight": 0.8 },
       { "label": "这波血亏", "weight": 1.0 },
       { "label": "被割韭菜了", "weight": 0.9 },
@@ -370,6 +372,7 @@
       { "label": "惊呆了", "weight": 0.8 },
       { "label": "蚌埠住了", "weight": 1.0 },
       { "label": "心态崩了", "weight": 0.9 },
+      { "label": "难绷", "weight": 0.8 },
       { "label": "我真的会谢", "weight": 0.8 },
       { "label": "太离谱了", "weight": 0.9 },
       { "label": "怎么想都想不通", "weight": 0.7 },

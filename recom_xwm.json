@@ -28,6 +28,7 @@
       { "label": "打击", "weight": 0.8 },
       { "label": "官方出手", "weight": 0.9 },
       { "label": "必须严查", "weight": 0.9 },
+       { "label": "污点", "weight": 0.7 },
       { "label": "平台加强监管", "weight": 0.8 },
       { "label": "不能姑息", "weight": 0.8 },
       { "label": "乱象整治", "weight": 0.7 },

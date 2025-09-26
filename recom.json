@@ -841,6 +841,7 @@
       { "label": "难过", "weight": 0.8 },
       { "label": "哀悼", "weight": 0.65 },
       { "label": "默哀", "weight": 0.65 },
+      { "label": "伤心", "weight": 0.65 },
       { "label": "我的心好痛", "weight": 0.8 },
       { "label": "感动哭了", "weight": 0.8 },
       { "label": "泪目", "weight": 0.8 },

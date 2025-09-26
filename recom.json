@@ -270,7 +270,6 @@
       { "label": "被当猴耍", "weight": 0.8 },
       { "label": "难绷", "weight": 0.7 },
       { "label": "崩溃", "weight": 0.7 },
-      { "label": "股民", "weight": 0.5 },
       { "label": "投资失败", "weight": 0.6 },
       { "label": "我绝望", "weight": 0.6 },
       { "label": "舔狗", "weight": 0.7 },

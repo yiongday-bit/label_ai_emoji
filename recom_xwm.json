@@ -266,7 +266,7 @@
   {
     "image": "image_xwm/11.png",
     "tags": [
-      { "label": "后悔", "weight": 0.9 },
+      { "label": "后悔", "weight": 0.8 },
       { "label": "猪油蒙了心", "weight": 1.0 },
       { "label": "悔不当初", "weight": 0.9 },
       { "label": "愚蠢", "weight": 0.7 },
@@ -278,9 +278,7 @@
       { "label": "自责", "weight": 0.65 },
       { "label": "心塞", "weight": 0.65 },
       { "label": "无奈", "weight": 0.55 },
-      { "label": "脑子进水了", "weight": 0.9 },
-      { "label": "投资者", "weight": 0.65 },
-      { "label": "贪小便宜", "weight": 0.8 },
+      { "label": "脑子进水了", "weight": 0.6 },
       { "label": "真该死啊", "weight": 0.55 }
     ]
   },

@@ -63,14 +63,13 @@
         const suggestionsDiv = document.getElementById('suggestions');
         let emojisData = [];
 
-        // 步骤1: 加载多个 JSON 数据
+        // 修改 loadEmojis 函数，让 recom_xwm.json 的数据排在前面
         async function loadEmojis() {
             try {
-                // 并行加载两个JSON文件
-                const [response1, response2] = await Promise.all([
-                    fetch('recom.json'),
-                    fetch('recom_xwm.json')
-                ]);
+                // 先加载 recom_xwm.json（优先数据）
+                const response2 = await fetch('recom_xwm.json');
+                // 再加载 recom.json（次要数据）
+                const response1 = await fetch('recom.json');
 
                 if (!response1.ok || !response2.ok) {
                     throw new Error(`HTTP error! status: ${!response1.ok ? response1.status : response2.status}`);
@@ -79,8 +78,9 @@
                 const data1 = await response1.json();
                 const data2 = await response2.json();
 
-                // 合并两个数据源
-                emojisData = [...data1, ...data2];
+                // 先放 recom_xwm.json 的数据，再放 recom.json 的数据
+                emojisData = [...data2, ...data1]; // 注意顺序：data2 在前
+                
                 console.log('加载的数据:', emojisData); 
                 console.log('表情包数据加载成功！共加载', emojisData.length, '个表情包');
             } catch (error) {

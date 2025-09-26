@@ -841,6 +841,7 @@
       { "label": "禁止擦边", "weight": 0.7 },
       { "label": "离我远点", "weight": 0.7 },
       { "label": "我反对", "weight": 0.7 },
+      { "label": "no", "weight": 0.7 },
       { "label": "擦边主播", "weight": 0.7 },
       { "label": "网络喷子", "weight": 0.6 }
     ]
@@ -854,8 +855,6 @@
       { "label": "致敬", "weight": 0.9 },
       { "label": "华夏", "weight": 0.9 },
       { "label": "为祖国点赞", "weight": 0.8 },
-      { "label": "保证完成任务", "weight": 0.8 },
-      { "label": "中国军人", "weight": 0.8 },
       { "label": "解放军", "weight": 0.7 },
       { "label": "建设者", "weight": 0.7 },
       { "label": "敬礼", "weight": 0.8 }

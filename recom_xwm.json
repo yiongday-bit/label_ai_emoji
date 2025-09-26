@@ -680,6 +680,8 @@
     "tags": [
       { "label": "笑死", "weight": 1.0 },
       { "label": "哈哈哈", "weight": 1.0 },
+      { "label": "开心", "weight": 0.9 },
+      { "label": "快乐", "weight": 0.9 },
       { "label": "笑崩", "weight": 0.9 },
       { "label": "笑不活了", "weight": 0.9 },
       { "label": "太好笑了", "weight": 0.9 },

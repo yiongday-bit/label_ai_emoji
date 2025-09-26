@@ -879,6 +879,7 @@
       { "label": "好好看", "weight": 0.8 },
       { "label": "神仙颜值", "weight": 0.6 },
       { "label": "疯狂心动", "weight": 0.8 },
+      { "label": "期待", "weight": 0.8 },
       { "label": "吹爆", "weight": 0.8 },
       { "label": "狠狠心动了", "weight": 0.8 },
       { "label": "男神", "weight": 0.8 },

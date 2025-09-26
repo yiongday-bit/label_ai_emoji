@@ -149,7 +149,6 @@
       { "label": "被当猴耍", "weight": 0.8 },
       { "label": "难绷", "weight": 0.7 },
       { "label": "崩溃", "weight": 0.7 },
-      { "label": "股民", "weight": 0.5 },
       { "label": "投资失败", "weight": 0.6 },
       { "label": "我绝望", "weight": 0.6 },
       { "label": "舔狗", "weight": 0.7 },
@@ -180,7 +179,7 @@
       { "label": "这结局我不接受", "weight": 0.8 },
       { "label": "血亏", "weight": 0.6 },
       { "label": "不理解", "weight": 0.55 },
-      { "label": "股民", "weight": 0.65 },
+      { "label": "股民", "weight": 0.5 },
       { "label": "投资", "weight": 0.6 },
       { "label": "被套牢的散户", "weight": 0.9 }
     ]
@@ -652,6 +651,7 @@
       { "label": "求锤得锤", "weight": 0.8 },
       { "label": "预判失误", "weight": 0.8 },
       { "label": "爽文", "weight": 0.7 },
+      { "label": "能吹", "weight": 0.7 },
       { "label": "怼人", "weight": 0.7 },
       { "label": "早就说了", "weight": 0.8 },
       { "label": "看你还吹", "weight": 0.8 },

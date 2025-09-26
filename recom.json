@@ -761,5 +761,187 @@
       { "label": "某些专家", "weight": 0.75 },
       { "label": "奇葩客户", "weight": 0.7 }
     ]
+  },
+  {
+    "image": "images/basic/happy.png",
+    "tags": [
+      { "label": "笑死", "weight": 1.0 },
+      { "label": "哈哈哈", "weight": 1.0 },
+      { "label": "开心", "weight": 0.9 },
+      { "label": "快乐", "weight": 0.9 },
+      { "label": "惊了", "weight": 0.65 },
+      { "label": "吃惊", "weight": 0.7 },
+      { "label": "嘻嘻", "weight": 0.65 },
+      { "label": "惊掉下巴", "weight": 0.65 },
+      { "label": "笑崩", "weight": 0.9 },
+      { "label": "笑不活了", "weight": 0.9 },
+      { "label": "太好笑了", "weight": 0.9 },
+      { "label": "神评论", "weight": 0.8 },
+      { "label": "笑哭", "weight": 0.8 },
+      { "label": "典中典", "weight": 0.7 },
+      { "label": "逗我", "weight": 0.7 },
+      { "label": "好好笑", "weight": 0.7 }
+    ]
+  },
+  {
+    "image": "images/basic/angry.png",
+    "tags": [
+      { "label": "气死了", "weight": 0.9 },
+      { "label": "无语了", "weight": 0.9 },
+      { "label": "搞什么", "weight": 0.9 },
+      { "label": "愤怒", "weight": 0.9 },
+      { "label": "活该", "weight": 0.65 },
+      { "label": "该死", "weight": 0.65 },
+      { "label": "真下头", "weight": 0.8 },
+      { "label": "怎么想都想不通", "weight": 0.8 },
+      { "label": "气炸了", "weight": 0.8 },
+      { "label": "凭什么", "weight": 0.8 },
+      { "label": "奇葩规定", "weight": 0.8 },
+      { "label": "我反对", "weight": 0.7 },
+      { "label": "不作为", "weight": 0.7 },
+      { "label": "有被冒犯到", "weight": 0.7 },
+      { "label": "生气", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/basic/agree.png",
+    "tags": [
+      { "label": "好耶", "weight": 0.9 },
+      { "label": "庆祝", "weight": 0.9 },
+      { "label": "生日快乐", "weight": 0.9 },
+      { "label": "恭喜恭喜", "weight": 0.9 },
+      { "label": "太棒了", "weight": 0.8 },
+      { "label": "上岸了", "weight": 0.8 },
+      { "label": "恭喜", "weight": 0.9 },
+      { "label": "沾沾喜气", "weight": 0.8 },
+      { "label": "新年快乐", "weight": 0.8 },
+      { "label": "成功了", "weight": 0.8 },
+      { "label": "我们赢了", "weight": 0.8 },
+      { "label": "值得庆祝", "weight": 0.7 },
+      { "label": "寿星", "weight": 0.7 },
+      { "label": "支持", "weight": 0.7 },
+      { "label": "欢迎", "weight": 0.7 },
+      { "label": "赢家", "weight": 0.6 },
+      { "label": "祝贺", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/basic/sad.png",
+    "tags": [
+      { "label": "我哭了", "weight": 1.0 },
+      { "label": "破防了", "weight": 1.0 },
+      { "label": "呜呜呜", "weight": 1.0 },
+      { "label": "心疼", "weight": 0.9 },
+      { "label": "太难了", "weight": 0.9 },
+      { "label": "委屈", "weight": 0.9 },
+      { "label": "太可惜", "weight": 0.85 },
+      { "label": "好可惜", "weight": 0.85 },
+      { "label": "真可惜", "weight": 0.85 },
+      { "label": "英年早逝", "weight": 0.7 },
+      { "label": "难过", "weight": 0.8 },
+      { "label": "哀悼", "weight": 0.65 },
+      { "label": "默哀", "weight": 0.65 },
+      { "label": "我的心好痛", "weight": 0.8 },
+      { "label": "感动哭了", "weight": 0.8 },
+      { "label": "泪目", "weight": 0.8 },
+      { "label": "韭菜", "weight": 0.8 },
+      { "label": "小丑竟是我自己", "weight": 0.5 },
+      { "label": "太可怜", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/basic/praise.png",
+    "tags": [
+      { "label": "点赞", "weight": 1.0 },
+      { "label": "你真棒", "weight": 0.9 },
+      { "label": "没毛病", "weight": 0.9 },
+      { "label": "干得漂亮", "weight": 0.9 },
+      { "label": "同意", "weight": 0.9 },
+      { "label": "恭喜", "weight": 0.75 },
+      { "label": "可以的", "weight": 0.8 },
+      { "label": "值得肯定", "weight": 0.8 },
+      { "label": "你说得对", "weight": 0.8 },
+      { "label": "很到位", "weight": 0.8 },
+      { "label": "立行立改", "weight": 0.55 },
+      { "label": "有担当", "weight": 0.8 },
+      { "label": "附议", "weight": 0.7 },
+      { "label": "这波稳了", "weight": 0.7 },
+      { "label": "真不错", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/basic/like.png",
+    "tags": [
+      { "label": "爱了爱了", "weight": 1.0 },
+      { "label": "awsl", "weight": 0.9 },
+      { "label": "好帅", "weight": 0.6 },
+      { "label": "好好看", "weight": 0.8 },
+      { "label": "神仙颜值", "weight": 0.6 },
+      { "label": "疯狂心动", "weight": 0.8 },
+      { "label": "吹爆", "weight": 0.8 },
+      { "label": "狠狠心动了", "weight": 0.8 },
+      { "label": "男神", "weight": 0.8 },
+      { "label": "买买买", "weight": 0.7 },
+      { "label": "馋哭了", "weight": 0.7 },
+      { "label": "偶像", "weight": 0.7 },
+      { "label": "女神", "weight": 0.7 },
+      { "label": "我的梦中情车", "weight": 0.6 },
+      { "label": "做梦", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/basic/pray.png",
+    "tags": [
+      { "label": "给你比心", "weight": 1.0 },
+      { "label": "mua", "weight": 0.9 },
+      { "label": "爱你哦", "weight": 0.9 },
+      { "label": "谢谢你", "weight": 0.9 },
+      { "label": "为你加油", "weight": 0.9 },
+      { "label": "感谢", "weight": 0.8 },
+      { "label": "祝你好运", "weight": 0.8 },
+      { "label": "支持你", "weight": 0.6 },
+      { "label": "祈福", "weight": 0.5 },
+      { "label": "加油中国", "weight": 0.8 },
+      { "label": "祈祷", "weight": 0.7 },
+      { "label": "你是最棒的", "weight": 0.7 },
+      { "label": "祝福", "weight": 0.7 },
+      { "label": "高考生", "weight": 0.6 },
+      { "label": "考研党", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/basic/no.png",
+    "tags": [
+      { "label": "达咩", "weight": 1.0 },
+      { "label": "duck不必", "weight": 0.9 },
+      { "label": "我拒绝", "weight": 0.9 },
+      { "label": "退退退", "weight": 0.9 },
+      { "label": "快停下", "weight": 0.8 },
+      { "label": "这可不行", "weight": 0.8 },
+      { "label": "想都别想", "weight": 0.8 },
+      { "label": "不同意", "weight": 0.8 },
+      { "label": "无良商家", "weight": 0.8 },
+      { "label": "奇葩建议", "weight": 0.8 },
+      { "label": "禁止擦边", "weight": 0.7 },
+      { "label": "离我远点", "weight": 0.7 },
+      { "label": "我反对", "weight": 0.7 },
+      { "label": "no", "weight": 0.7 },
+      { "label": "擦边主播", "weight": 0.7 },
+      { "label": "网络喷子", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/basic/respect.png",
+    "tags": [
+      { "label": "祖国", "weight": 1.0 },
+      { "label": "此生无悔入华夏", "weight": 0.9 },
+      { "label": "respect", "weight": 0.9 },
+      { "label": "致敬", "weight": 0.9 },
+      { "label": "华夏", "weight": 0.9 },
+      { "label": "为祖国点赞", "weight": 0.8 },
+      { "label": "解放军", "weight": 0.7 },
+      { "label": "建设者", "weight": 0.7 },
+      { "label": "敬礼", "weight": 0.8 }
+    ]
   }
 ]

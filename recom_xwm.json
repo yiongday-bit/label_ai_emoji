@@ -167,7 +167,7 @@
     "tags": [
       { "label": "愤慨", "weight": 1.0 },
       { "label": "不甘", "weight": 0.9 },
-      { "label": "惋惜", "weight": 0.8 },
+      { "label": "惋惜", "weight": 0.7 },
       { "label": "破防", "weight": 0.65 },
       { "label": "emo", "weight": 0.55 },
       { "label": "太可惜", "weight": 0.55 },
@@ -755,6 +755,7 @@
       { "label": "真可惜", "weight": 0.85 },
       { "label": "英年早逝", "weight": 0.7 },
       { "label": "难过", "weight": 0.8 },
+      { "label": "惋惜", "weight": 0.9 },
       { "label": "哀悼", "weight": 0.65 },
       { "label": "伤心", "weight": 0.75 },
       { "label": "默哀", "weight": 0.65 },

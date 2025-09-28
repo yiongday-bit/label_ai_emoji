@@ -118,7 +118,7 @@
       { "label": "讽刺", "weight": 0.6 },
       { "label": "电商套路", "weight": 0.9 },
       { "label": "欺骗消费者", "weight": 0.8 },
-      { "label": "平台", "weight": 0.5 },
+      { "label": "某些平台", "weight": 0.5 },
       { "label": "无良商家", "weight": 0.8 },
       { "label": "无良企业", "weight": 0.9 }
     ]
@@ -132,6 +132,7 @@
       { "label": "重拳", "weight": 1.0 },
       { "label": "打击", "weight": 0.8 },
       { "label": "姑息", "weight": 0.65 },
+      { "label": "重罚", "weight": 0.65 },
       { "label": "出击", "weight": 0.6 },
       { "label": "举报", "weight": 0.6 },
       { "label": "知法犯法", "weight": 0.6 },
@@ -187,7 +188,8 @@
       { "label": "官方态度", "weight": 0.9 },
       { "label": "平台规则", "weight": 0.8 },
       { "label": "不容忍", "weight": 0.7 },
-      { "label": "监管", "weight": 0.5 },
+      { "label": "监管", "weight": 0.6 },
+      { "label": "监督", "weight": 0.7 },
       { "label": "违法犯法", "weight": 0.8 },
       { "label": "擦边行为", "weight": 0.8 },
       { "label": "个人原则", "weight": 0.5 }
@@ -220,6 +222,7 @@
       { "label": "加强监管", "weight": 0.8 },
       { "label": "官方下场", "weight": 0.8 },
       { "label": "正道的光", "weight": 0.7 },
+      { "label": "监督", "weight": 0.7 },
       { "label": "平台监管", "weight": 0.9 }
     ]
   },
@@ -379,7 +382,17 @@
       { "label": "干货满满", "weight": 0.8 },
       { "label": "有理有据", "weight": 1.0 },
       { "label": "课代表", "weight": 0.9 },
+      { "label": "宪法", "weight": 0.65 },
+      { "label": "立法法", "weight": 0.65 },
       { "label": "民法典", "weight": 0.65 },
+      { "label": "反不正当竞争法", "weight": 0.65 },
+      { "label": "社会保险法", "weight": 0.65 },
+      { "label": "刑法", "weight": 0.65 },
+      { "label": "行政诉讼法", "weight": 0.65 },
+      { "label": "民事诉讼法", "weight": 0.65 },
+      { "label": "刑事诉讼法", "weight": 0.65 },
+      { "label": "行政复议法", "weight": 0.65 },
+      { "label": "监察法", "weight": 0.65 },
       { "label": "大神", "weight": 0.8 },
       { "label": "分析得头头是道", "weight": 0.9 },
       { "label": "学到了", "weight": 0.8 },
@@ -484,7 +497,7 @@
     "image": "images/Group 108.png",
     "tags": [
       { "label": "激昂", "weight": 0.7 },
-      { "label": "努力奋斗", "weight": 0.65 },
+      { "label": "奋斗", "weight": 0.5 },
       { "label": "正能量", "weight": 0.7 },
       { "label": "鼓励", "weight": 0.7 },
       { "label": "满仓干", "weight": 0.65 },
@@ -518,7 +531,6 @@
     "tags": [
       { "label": "喜爱", "weight": 1.0 },
       { "label": "欣赏", "weight": 0.9 },
-      { "label": "满足", "weight": 0.8 },
       { "label": "伟大", "weight": 0.6 },
       { "label": "点赞", "weight": 0.6 },
       { "label": "偶像", "weight": 0.6 },
@@ -556,7 +568,7 @@
       { "label": "干就完了", "weight": 1.0 },
       { "label": "别废话", "weight": 0.8 },
       { "label": "冲就对了", "weight": 0.9 },
-      { "label": "奋斗", "weight": 0.8 },
+      { "label": "奋斗", "weight": 0.6 },
       { "label": "加油干", "weight": 0.7 },
       { "label": "拼搏", "weight": 0.9 },
       { "label": "奥利给", "weight": 0.6 },
@@ -565,7 +577,6 @@
       { "label": "健身锻炼", "weight": 0.6 },
       { "label": "冲呀", "weight": 0.9 },
       { "label": "冲啊", "weight": 0.9 },
-      { "label": "努力", "weight": 0.75 },
       { "label": "考生", "weight": 0.65 },
       { "label": "向前跑", "weight": 0.8 },
       { "label": "势不可挡", "weight": 0.8 },
@@ -616,6 +627,8 @@
       { "label": "就差一点", "weight": 0.65 },
       { "label": "意难平", "weight": 1.0 },
       { "label": "气死我了", "weight": 0.65 },
+      { "label": "时过境迁", "weight": 0.6 },
+      { "label": "昔日", "weight": 0.55 },
       { "label": "为什么会这样", "weight": 0.7 },
       { "label": "想不通", "weight": 0.7 },
       { "label": "凭什么", "weight": 0.8 },
@@ -746,6 +759,7 @@
       { "label": "情况复杂", "weight": 0.8 },
       { "label": "糟心事", "weight": 0.8 },
       { "label": "天差地别", "weight": 0.6 },
+      { "label": "水泄不通", "weight": 0.6 },
       { "label": "父之过", "weight": 0.6 },
       { "label": "麻了", "weight": 0.9 },
       { "label": "难评", "weight": 0.85 },
@@ -834,10 +848,12 @@
       { "label": "太难了", "weight": 0.9 },
       { "label": "委屈", "weight": 0.9 },
       { "label": "太可惜", "weight": 0.85 },
+      { "label": "遗憾", "weight": 0.75 },
       { "label": "好可惜", "weight": 0.85 },
       { "label": "真可惜", "weight": 0.85 },
       { "label": "英年早逝", "weight": 0.7 },
       { "label": "难过", "weight": 0.8 },
+      { "label": "悲剧", "weight": 0.6 },
       { "label": "惋惜", "weight": 0.8 },
       { "label": "哀悼", "weight": 0.65 },
       { "label": "默哀", "weight": 0.65 },
@@ -860,6 +876,9 @@
       { "label": "同意", "weight": 0.9 },
       { "label": "恭喜", "weight": 0.75 },
       { "label": "可以的", "weight": 0.8 },
+      { "label": "挺好的", "weight": 0.75 },
+      { "label": "真不错", "weight": 0.75 },
+      { "label": "太好了", "weight": 0.75 },
       { "label": "值得肯定", "weight": 0.8 },
       { "label": "你说得对", "weight": 0.8 },
       { "label": "很到位", "weight": 0.8 },
@@ -901,8 +920,10 @@
       { "label": "为你加油", "weight": 0.9 },
       { "label": "感谢", "weight": 0.8 },
       { "label": "祝你好运", "weight": 0.8 },
+      { "label": "一路走好", "weight": 0.8 },
+      { "label": "逝者安息", "weight": 0.75 },
       { "label": "支持你", "weight": 0.6 },
-      { "label": "祈福", "weight": 0.5 },
+      { "label": "祈福", "weight": 0.7 },
       { "label": "加油中国", "weight": 0.8 },
       { "label": "祈祷", "weight": 0.7 },
       { "label": "你是最棒的", "weight": 0.7 },
@@ -927,7 +948,12 @@
       { "label": "禁止擦边", "weight": 0.7 },
       { "label": "离我远点", "weight": 0.7 },
       { "label": "我反对", "weight": 0.7 },
+      { "label": "不堪设想", "weight": 0.7 },
+      { "label": "不堪入目", "weight": 0.7 },
+      { "label": "说不", "weight": 0.8 },
+      { "label": "杜绝", "weight": 0.7 },
       { "label": "no", "weight": 0.7 },
+      { "label": "很危险", "weight": 0.75 },
       { "label": "擦边主播", "weight": 0.7 },
       { "label": "网络喷子", "weight": 0.6 }
     ]
@@ -939,11 +965,150 @@
       { "label": "此生无悔入华夏", "weight": 0.9 },
       { "label": "respect", "weight": 0.9 },
       { "label": "致敬", "weight": 0.9 },
+      { "label": "佩服", "weight": 0.9 },
+      { "label": "狠人", "weight": 0.7 },
       { "label": "华夏", "weight": 0.9 },
       { "label": "为祖国点赞", "weight": 0.8 },
       { "label": "解放军", "weight": 0.7 },
       { "label": "建设者", "weight": 0.7 },
       { "label": "敬礼", "weight": 0.8 }
+    ]
+  },
+  {
+    "image": "images/topic/sport01.png",
+    "tags": [
+      { "label": "强组如云", "weight": 1.0 },
+      { "label": "强敌环绕", "weight": 1.0 },
+      { "label": "欧冠分组", "weight": 0.5 },
+      { "label": "抽签分组", "weight": 0.6 },
+      { "label": "听天由命", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/topic/sport02.png",
+    "tags": [
+      { "label": "养膝", "weight": 1.0 },
+      { "label": "滕哈格", "weight": 0.8 },
+      { "label": "康复", "weight": 0.6 },
+      { "label": "阿森纳", "weight": 0.8 },
+      { "label": "输球不可怕", "weight": 0.6 },
+      { "label": "曼联", "weight": 0.8 }
+    ]
+  },
+  {
+    "image": "images/topic/sport03.png",
+    "tags": [
+      { "label": "虽败犹荣", "weight": 1.0 },
+      { "label": "拼过就好", "weight": 0.8 },
+      { "label": "未来可期", "weight": 0.7 },
+      { "label": "失败", "weight": 0.8 }
+    ]
+  },
+  {
+    "image": "images/topic/enter01.png",
+    "tags": [
+      { "label": "你是我的神", "weight": 1.0 },
+      { "label": "吹爆了", "weight": 0.9 },
+      { "label": "respect", "weight": 0.7 },
+      { "label": "爆灯", "weight": 0.7 },
+      { "label": "偶像", "weight": 0.8 },
+      { "label": "内娱名场面", "weight": 0.6 },
+      { "label": "名场面", "weight": 0.5 },
+      { "label": "滑跪", "weight": 0.8 },
+      { "label": "打call", "weight": 0.8 },
+      { "label": "典语录", "weight": 0.8 },
+      { "label": "佩服", "weight": 0.7 },
+      { "label": "膜拜大神", "weight": 0.9 },
+      { "label": "股神", "weight": 0.6 },
+      { "label": "赞赞赞", "weight": 0.5 }
+    ]
+  },
+  {
+    "image": "images/topic/enter02.png",
+    "tags": [
+      { "label": "人设崩塌", "weight": 1.0 },
+      { "label": "塌方", "weight": 0.9 },
+      { "label": "翻车", "weight": 0.6 },
+      { "label": "滤镜破碎", "weight": 0.6 },
+      { "label": "明星", "weight": 0.6 },
+      { "label": "会性死亡", "weight": 0.6 },
+      { "label": "石化", "weight": 0.6 },
+      { "label": "人设崩了", "weight": 0.8 }
+    ]
+  },
+  {
+    "image": "images/topic/enter03.png",
+    "tags": [
+      { "label": "就这演技", "weight": 1.0 },
+      { "label": "演技差", "weight": 0.65 },
+      { "label": "量明星", "weight": 0.65 },
+      { "label": "尴尬", "weight": 0.5 },
+      { "label": "小鲜肉", "weight": 0.5 }
+    ]
+  },
+  {
+    "image": "images/topic/war01.png",
+    "tags": [
+      { "label": "射程", "weight": 1.0 },
+      { "label": "东风快递", "weight": 0.9 },
+      { "label": "锁定", "weight": 0.7 },
+      { "label": "全覆盖", "weight": 0.7 },
+      { "label": "指哪打哪", "weight": 0.7 },
+      { "label": "导弹", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/topic/war02.png",
+    "tags": [
+      { "label": "精准打击", "weight": 1.0 },
+      { "label": "指哪打哪", "weight": 0.7 },
+      { "label": "八倍镜", "weight": 0.7 },
+      { "label": "侦查", "weight": 0.6 },
+      { "label": "锁敌", "weight": 0.7 },
+      { "label": "一击必中", "weight": 0.7 },
+      { "label": "锁定", "weight": 0.75 },
+      { "label": "导弹", "weight": 0.6 }
+    ]
+  },
+  {
+    "image": "images/topic/war03.png",
+    "tags": [
+      { "label": "无人机", "weight": 1.0 },
+      { "label": "战斗机", "weight": 0.8 },
+      { "label": "大疆", "weight": 0.8 }
+    ]
+  },
+  {
+    "image": "images/topic/finance01.png",
+    "tags": [
+      { "label": "被套牢了", "weight": 1.0 },
+      { "label": "韭菜", "weight": 0.7 },
+      { "label": "套牢", "weight": 0.8 },
+      { "label": "解套无望", "weight": 0.9 },
+      { "label": "还我本金", "weight": 0.7 },
+      { "label": "亏麻了", "weight": 0.8 }
+    ]
+  },
+  {
+    "image": "images/topic/finance02.png",
+    "tags": [
+      { "label": "梭哈", "weight": 1.0 },
+      { "label": "满仓干", "weight": 0.9 },
+      { "label": "加仓", "weight": 0.9 },
+      { "label": "all in", "weight": 0.9 },
+      { "label": "赌博", "weight": 0.6 },
+      { "label": "全仓", "weight": 0.7 },
+      { "label": "抄底", "weight": 0.9 },
+      { "label": "赌一把", "weight": 0.8 }
+    ]
+  },
+  {
+    "image": "images/topic/finance03.png",
+    "tags": [
+      { "label": "降息", "weight": 0.8 },
+      { "label": "美联储", "weight": 0.6 },
+      { "label": "加息", "weight": 0.7 },
+      { "label": "等降息", "weight": 1.0 }
     ]
   }
 ]

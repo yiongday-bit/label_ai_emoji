@@ -70,7 +70,6 @@
   {
     "image": "image_xwm/3.png",
     "tags": [
-      { "label": "复杂", "weight": 1.0 },
       { "label": "震惊", "weight": 0.9 },
       { "label": "害怕", "weight": 0.5 },
       { "label": "目瞪口呆", "weight": 0.55 },

@@ -234,8 +234,8 @@
             const MIN_SCORE_THRESHOLD = 0.5;
             const filteredResults = results.filter(item => item.score >= MIN_SCORE_THRESHOLD);
 
-            // 返回前6个结果（增加一些结果）
-            return filteredResults.slice(0, 6).map(item => item.emoji);
+            // 返回前3个结果（增加一些结果）
+            return filteredResults.slice(0, 3).map(item => item.emoji);
         }
 
 

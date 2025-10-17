@@ -791,7 +791,7 @@
       { "label": "离世", "weight": 0.9 },
       { "label": "吊唁", "weight": 0.8 },
       { "label": "悲痛", "weight": 0.9 },
-      { "label": "悲剧", "weight": 0.6 },
+      { "label": "悲剧", "weight": 0.7 },
       { "label": "哀悼", "weight": 0.85 },
       { "label": "伤心", "weight": 0.75 },
       { "label": "默哀", "weight": 0.85 },
